@@ -105,7 +105,7 @@ Just like Controllers, we need their pure name without the "Middleware" word.
 you can change this rule of our Routing system by using  ```'important'=>true ``` or turn it off by  ```'important'=>false ```.
 Note: This key in Routing array is not required.
 
-### API
+### API 
 
 To define your own routes, go to this address:
 >Route/Setting/Api.phtml
